@@ -1,0 +1,12 @@
+/Users/mouaadgssair/Desktop/_workspace/codeRepos/AspireWorkspace/AspireWithContainers/AspireWithContainers.ServiceDefaults/bin/Debug/net8.0/AspireWithContainers.ServiceDefaults.deps.json
+/Users/mouaadgssair/Desktop/_workspace/codeRepos/AspireWorkspace/AspireWithContainers/AspireWithContainers.ServiceDefaults/bin/Debug/net8.0/AspireWithContainers.ServiceDefaults.dll
+/Users/mouaadgssair/Desktop/_workspace/codeRepos/AspireWorkspace/AspireWithContainers/AspireWithContainers.ServiceDefaults/bin/Debug/net8.0/AspireWithContainers.ServiceDefaults.pdb
+/Users/mouaadgssair/Desktop/_workspace/codeRepos/AspireWorkspace/AspireWithContainers/AspireWithContainers.ServiceDefaults/obj/Debug/net8.0/AspireWithContainers.ServiceDefaults.csproj.AssemblyReference.cache
+/Users/mouaadgssair/Desktop/_workspace/codeRepos/AspireWorkspace/AspireWithContainers/AspireWithContainers.ServiceDefaults/obj/Debug/net8.0/AspireWithContainers.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mouaadgssair/Desktop/_workspace/codeRepos/AspireWorkspace/AspireWithContainers/AspireWithContainers.ServiceDefaults/obj/Debug/net8.0/AspireWithContainers.ServiceDefaults.AssemblyInfoInputs.cache
+/Users/mouaadgssair/Desktop/_workspace/codeRepos/AspireWorkspace/AspireWithContainers/AspireWithContainers.ServiceDefaults/obj/Debug/net8.0/AspireWithContainers.ServiceDefaults.AssemblyInfo.cs
+/Users/mouaadgssair/Desktop/_workspace/codeRepos/AspireWorkspace/AspireWithContainers/AspireWithContainers.ServiceDefaults/obj/Debug/net8.0/AspireWithContainers.ServiceDefaults.csproj.CoreCompileInputs.cache
+/Users/mouaadgssair/Desktop/_workspace/codeRepos/AspireWorkspace/AspireWithContainers/AspireWithContainers.ServiceDefaults/obj/Debug/net8.0/AspireWithContainers.ServiceDefaults.dll
+/Users/mouaadgssair/Desktop/_workspace/codeRepos/AspireWorkspace/AspireWithContainers/AspireWithContainers.ServiceDefaults/obj/Debug/net8.0/refint/AspireWithContainers.ServiceDefaults.dll
+/Users/mouaadgssair/Desktop/_workspace/codeRepos/AspireWorkspace/AspireWithContainers/AspireWithContainers.ServiceDefaults/obj/Debug/net8.0/AspireWithContainers.ServiceDefaults.pdb
+/Users/mouaadgssair/Desktop/_workspace/codeRepos/AspireWorkspace/AspireWithContainers/AspireWithContainers.ServiceDefaults/obj/Debug/net8.0/ref/AspireWithContainers.ServiceDefaults.dll

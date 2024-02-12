@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "sAIVwk6KoMEMSPUR8zXbWvOSSnQCyCO9xyrusEv5NiU=",
+  "Source": "AspireWithContainers.ApiService",
+  "BasePath": "_content/AspireWithContainers.ApiService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
