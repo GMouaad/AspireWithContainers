@@ -1,8 +1,10 @@
 var builder = DistributedApplication.CreateBuilder(args);
+
 var HelloWorldApp_Port = 8000;
 var HelloWorldApp = builder.AddContainer("HelloWorldApp", "mgsair/hello-world-java", "0.0.1.RELEASE")
     .WithEnvironment("SERVER_PORT", $"{HelloWorldApp_Port}")
-    .WithServiceBinding(containerPort: HelloWorldApp_Port, scheme: "http", name: "endpoint");
+    .WithEndpoint(containerPort: HelloWorldApp_Port, scheme: "http", name: "endpoint");
+    
 var helloWorldAppEndpoint = HelloWorldApp.GetEndpoint("endpoint");
 
 var apiService = builder.AddProject<Projects.AspireWithContainers_ApiService>("apiservice")
